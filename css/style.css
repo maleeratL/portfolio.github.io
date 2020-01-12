@@ -59,7 +59,7 @@ section{
   display: none;
 }
 
-/* .hamburger:hover .menu{
+.hamburger:hover .menu{
   left: 0px;
   cursor: auto;
-} */
+}
